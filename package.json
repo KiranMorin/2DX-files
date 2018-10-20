@@ -1,0 +1,24 @@
+{
+  "name": "2dx-files",
+  "version": "1.0.0",
+  "description": "My work on 2dx files",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KiranMorin/2DX-files.git"
+  },
+  "keywords": [
+    "SoundVoltex",
+    "SDVX",
+    "2dx"
+  ],
+  "author": "Kiran Morin",
+  "license": "GPL-3.0-or-later",
+  "bugs": {
+    "url": "https://github.com/KiranMorin/2DX-files/issues"
+  },
+  "homepage": "https://github.com/KiranMorin/2DX-files#readme"
+}
